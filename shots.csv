@@ -1,0 +1,25 @@
+player,team_home,shot_type,situation,body_part,x,y,xg,minute
+Viktor Gyökeres,True,goal,regular,right-foot,3.6,49.3,0,88
+Besfort Zeneli,True,post,regular,right-foot,7.1,43.2,0,88
+Lucas Bergvall,True,save,regular,right-foot,10.7,51.7,0,88
+Daniel Svensson,True,block,assisted,left-foot,12.9,58.7,0,88
+Yasin Ayari,True,save,corner,right-foot,15.0,36.8,0,87
+Gustav Lundgren,True,block,assisted,left-foot,14.7,71.6,0,82
+Jakub Kamiński,False,block,set-piece,right-foot,10.0,66.0,0,80
+Sebastian Szymański,False,block,assisted,left-foot,28.5,67.0,0,71
+Piotr Zieliński,False,miss,assisted,left-foot,23.1,66.1,0,68
+Karol Świderski,False,goal,assisted,left-foot,4.2,55.9,0,55
+Robert Lewandowski,False,miss,corner,right-foot,17.2,27.6,0,54
+Przemysław Wiśniewski,False,miss,corner,head,9.2,53.7,0,54
+Gustaf Lagerbielke,True,miss,assisted,head,6.2,45.6,0,53
+Piotr Zieliński,False,block,assisted,right-foot,23.5,60.3,0,45
+Jakub Kamiński,False,save,assisted,left-foot,12.6,45.0,0,45
+Gustaf Lagerbielke,True,goal,set-piece,head,3.8,53.8,0,44
+Robert Lewandowski,False,block,assisted,right-foot,22.2,29.7,0,42
+Karol Świderski,False,save,assisted,head,6.6,37.2,0,35
+Jakub Kamiński,False,save,assisted,right-foot,8.3,66.3,0,34
+Nicola Zalewski,False,goal,assisted,right-foot,13.9,33.0,0,33
+Jakub Kamiński,False,save,corner,right-foot,18.4,33.6,0,28
+Karol Świderski,False,save,assisted,right-foot,12.3,53.1,0,26
+Anthony Elanga,True,goal,assisted,left-foot,15.9,48.6,0,19
+Matty Cash,False,block,corner,right-foot,26.4,57.6,0,2
